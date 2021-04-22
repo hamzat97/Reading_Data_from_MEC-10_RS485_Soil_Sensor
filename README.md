@@ -23,7 +23,7 @@ Just visit this [link](https://randomnerdtutorials.com/installing-the-esp32-boar
 MEC-10 RS458 can be software calibrated for specific soils (sandy soil, clay soil, mineral soil and organic soil), knowing that it is calibrated for mineral soil by default. The Arduino sketch explains how to easily define the type of soil to calibrate the sensor. 
 
 ***Some Important Notes:***
-- The arduino sketch will not even be compiled if you don't uncomment a few blocks. Before everything, you need to read the comments carefully to know which lines must be uncommented, it all depends on the board you're using in your application.
+- The Arduino sketch will not even be compiled if you don't uncomment a few blocks. Before everything, you need to read the comments carefully to know which lines must be uncommented, it all depends on the board you're using in your application.
 - Carry out the wiring as represented in the description (images in the Wiring Diagram folder) and do not connect SET pin of the sensor to the ground (V-) in setup mode.
 - The correct sensor installation should be your top priority, this is is why reading the user manual is strongly recommended. 
 
