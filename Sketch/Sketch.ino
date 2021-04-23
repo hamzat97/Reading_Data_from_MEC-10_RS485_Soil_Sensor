@@ -89,7 +89,7 @@ void setup() {
  node.postTransmission(postTransmission);
  // MEC-10 RS485 soil sensor calibration. Uncomment the line that corresponds the type of soil chosen and remove the other lines that are not.
  /*
- node.writeSingleRegister(0x0020,0); // Mineral soil, it is chosen by default by default
+ node.writeSingleRegister(0x0020,0); // Mineral soil, it is chosen by default
  node.writeSingleRegister(0x0020,1); // Sandy soil
  node.writeSingleRegister(0x0020,2); // Clay
  node.writeSingleRegister(0x0020,3); // Organic soil
