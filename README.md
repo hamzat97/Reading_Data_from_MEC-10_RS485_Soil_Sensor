@@ -27,4 +27,4 @@ MEC-10 RS458 can be software calibrated for specific soils (sandy soil, clay soi
 - Carry out the wiring as represented in the description (images in the Wiring Diagram folder) and do not connect SET pin of the sensor to the ground (V-) in setup mode.
 - The correct sensor installation should be your top priority, this is is why reading the user manual is strongly recommended. 
 
-Finally, I remain at your entire disposal for any further information, just contact me at my academic mail h.taous@ump.ac.ma if you have any questions or if you need any kind of assistance.
+Finally, I remain at your entire disposal for any further information, just contact me at my personal Gmail hamzataous847@gmail.com if you have any questions or if you need any kind of assistance.
